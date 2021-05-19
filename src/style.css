@@ -112,6 +112,9 @@ label {
     width: 100px;
     display: inline-block;
 }
+.nTarjeta {
+  width: 140px;
+}
 
 .botonValidar {
     width: 110px;
