@@ -18,7 +18,7 @@ comprar.addEventListener("click", () => {
         string = string + '#';
       } else {
         string = string + arr[i];
-      }
+      };
     }
     return string;
   }
@@ -31,7 +31,7 @@ comprar.addEventListener("click", () => {
         const creditCardMask= validator.maskify(creditCardNumber.value)
         alert("Tu tarjeta" + creditCardMask + "es valida para realizar la compra" )
       }else{
-        alert("tarjeta no valida") 
+        alert("Tarjeta no valida") 
       }
       
   
