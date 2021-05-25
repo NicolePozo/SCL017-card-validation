@@ -24,6 +24,21 @@ const validator = {
     }
     //aqui validamos si la suma de los digitos dividido 10 tiene un residuo cero
     return (numSum % 10 == 0);
+  },
+
+   maskify(creditCardNumber) {
+    let arr = creditCardNumber.split('');
+    let string = '';
+
+    for (let i = 0; i < arr.length; i++) {
+      if (i < arr.length - 4) {
+        string = string + '#';
+      } else {
+        string = string + arr[i];
+      }
+    }
+    return string;
   }
+
 }
 export default validator;

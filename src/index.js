@@ -28,7 +28,7 @@ comprar.addEventListener("click", () => {
     event.preventDefault();
     const creditCardNumber = document.getElementById("nuTarjeta");
     if  (validator.isValid(creditCardNumber.value) ){
-        const creditCardMask=maskify(creditCardNumber.value)
+        const creditCardMask= validator.maskify(creditCardNumber.value)
         alert("Tu tarjeta" + creditCardMask + "es valida para realizar la compra" )
       }else{
         alert("tarjeta no valida") 
