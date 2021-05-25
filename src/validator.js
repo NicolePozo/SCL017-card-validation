@@ -1,11 +1,11 @@
 const validator = {
-  isValid(creditCardNumber){
-
+  // Luhn check
+  isValid(creditCardNumber) {
     var numSum = 0;
     var value;
     //iteramos en base a la cantidad de numeros de la tarjeta (16)
     for (var i = 0; i < 16; i++) {
-      //en este if el residuo entre la posicion y el 2 debe ser igual a 0
+      //en este if el residuo entre la posision y el 2 debe ser igual a 0
       if (i % 2 == 0) {
         //en caso de que el if anterior sea verdadero duplicamos el numero 
         value = 2 * creditCardNumber[i];
@@ -25,6 +25,5 @@ const validator = {
     //aqui validamos si la suma de los digitos dividido 10 tiene un residuo cero
     return (numSum % 10 == 0);
   }
-};
-
+}
 export default validator;
