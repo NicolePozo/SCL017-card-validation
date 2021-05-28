@@ -4,9 +4,9 @@ const validator = {
     var numSum = 0;
     var value;
     //iteramos en base a la cantidad de numeros de la tarjeta (16)
-    for (var i = 0; i < 16; i++) {
+    for (var i = 0; i < creditCardNumber.length; i++) {
       //en este if el residuo entre la posision y el 2 debe ser igual a 0
-      if (i % 2 == 0) {
+      if (i % 2 == 1) {
         //en caso de que el if anterior sea verdadero duplicamos el numero 
         value = 2 * creditCardNumber[i];
         //si al duplicar el numero es mayor o igual a 10 se se divide en 10 y se suma el residuo 
