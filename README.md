@@ -43,15 +43,15 @@ Esperamos resolver el problema de seguridad en las compras, ya que por medio de 
 A continuación se muestran los diversos prototipos iterados
 
 
-![Primer prototipo](images/prototipo.jpg)
+![Primer prototipo](images/prototipo.jpeg)
 
 
-![Prototipo Iterado - Pág.1](images/Figma1.jpg)
-![Prototipo Iterado - Pág.2](images/Figma2.jpg)
+![Prototipo Iterado - Pág.1](images/Figma 1.JPG)
+![Prototipo Iterado - Pág.2](images/Figma 2.JPG)
 
 ## 7. Interfaz Final
-![Primera Página](img/final1.jpg)
-![Segunda Página](img/final2.jpg)
+![Primera Página](images/final1.JPG)
+![Segunda Página](images/final2.JPG)
 
 ## 8. Enlace a "Validación de compra segura"
 https://nicolepozo.github.io/SCL017-card-validation/
