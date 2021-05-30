@@ -43,7 +43,7 @@ Esperamos resolver el problema de seguridad en las compras, ya que por medio de 
 A continuación se muestran los diversos prototipos iterados
 
 
-![Primer prototipo](images/prototipo.jpeg)
+<img src= "images/prototipo.jpeg">
 
 
 ![Prototipo Iterado - Pág.1](images/Figma 1.JPG)
