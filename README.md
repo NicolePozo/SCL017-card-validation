@@ -5,10 +5,12 @@
 * [1. Algorítmo de Luhn](#1-algoritmo-de-luhn)
 * [2. Descripción del Producto](#2-resumen-del-proyecto)
 * [3. Proceso de Creación](#3-proceso-de-creacion)
-* [4. Prototipos](#4-prototipos)
-* [5. Interfaz Final](#5-interfaz-final)
-* [6. Enlace a Validación de compra segura](#6-enlace-a-validacion)
-* [7. Recursos](#7-recursos)
+* [4. Principales Usuarios y Objetivo](#4-principales)
+* [5. ¿Qué esperamos resolver?](#5-que-esperamos)
+* [6. Prototipos](#5-prototipos)
+* [7. Interfaz Final](#6-interfaz-final)
+* [8. Enlace a Validación de compra segura](#7-enlace-a-validacion)
+* [9. Recursos](#8-recursos)
 
 ***
 
@@ -29,15 +31,15 @@ Nuestro producto fue desarrollado para otorgar una experiencia de mayor segurida
 ## 3. Proceso de Creación
 Nuestro producto fue desarrollado primeramente desde la mirada UX, pensamos en los posibles usuarios que podrían beneficiarse de nuestro producto. Posterior a eso desarrollamos en conjunto los prototipos de la interfaz en baja fidelidad y buscamos feedback de nuestras compañeras. Por último, iteramos la propuesta de interfaz en base a sus comentarios y sugerencias. Con ello, realizamos el prototipo en la plataforma Figma para finalmente desarollar en VSCode nuestro producto.
 
-# Principales Usuarios y Objetivo
+## 4. Principales Usuarios y Objetivo
 Nuestros principales usuarios son dueños o usuarios de tiendas e- commerce para comprar online. El objetivo que tenemos con nuestro producto es que sea una herramienta que les otorgue seguridad al momento de realizar sus ventas online. 
 
 
-# ¿Qué esperamos resolver?
+## 5. ¿Qué esperamos resolver?
 Esperamos resolver el problema de seguridad en las compras, ya que por medio de este producto, podrán saber que sus compradores poseen tarjetas válidas y reales. De modo que disminuya la posibilidad de estafa o compras ilícitas. 
 
 
-### Prototipos 
+## 6. Prototipos 
 A continuación se muestran los diversos prototipos iterados
 
 
@@ -47,14 +49,14 @@ A continuación se muestran los diversos prototipos iterados
 ![Prototipo Iterado - Pág.1](images/Figma1.jpg)
 ![Prototipo Iterado - Pág.2](images/Figma2.jpg)
 
-## Interfaz Final
+# 7. Interfaz Final
 ![Primera Página](img/final1.jpg)
 ![Segunda Página](img/final2.jpg)
 
-## Enlace a "Validación de compra segura"
+# 8. Enlace a "Validación de compra segura"
 https://nicolepozo.github.io/SCL017-card-validation/
 
-## Recursos
+# 9. Recursos
 * Stackoverflow : 
      * https://stackoverflow.com/questions/19249554/advice-on-how-to-code-luhn-credit-card-validation-with-javascript
 * Github
