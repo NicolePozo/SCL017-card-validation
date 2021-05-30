@@ -45,8 +45,8 @@ A continuación se muestran los diversos prototipos iterados
 ![Primer Prototipo](images/prototipo.jpeg)
 
 
-![Prototipo Iterado - Pág.1](images/Figma 1.JPG)
-![Prototipo Iterado - Pág.2](images/Figma 2.JPG)
+![Prototipo Iterado1](images/Figma1.JPG)
+![Prototipo Iterado1](images/Figma2.JPG)
 
 ## 7. Interfaz Final
 ![Primera Página](images/final1.JPG)
