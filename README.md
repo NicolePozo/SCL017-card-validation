@@ -9,7 +9,7 @@
 * [5. ¿Qué esperamos resolver?](#5-qué-esperamos-resolver)
 * [6. Prototipos](#6-prototipos)
 * [7. Interfaz Final](#7-interfaz-final)
-* [8. Enlace a Validación de compra segura](#8-enlace-a-validacion-de-compra-segura)
+* [8. Enlace a Validación de compra segura](#8-enlace-a-validación-de-compra-segura)
 * [9. Recursos](#9-recursos)
 
 ***
@@ -49,14 +49,14 @@ A continuación se muestran los diversos prototipos iterados
 ![Prototipo Iterado - Pág.1](images/Figma1.jpg)
 ![Prototipo Iterado - Pág.2](images/Figma2.jpg)
 
-# 7. Interfaz Final
+## 7. Interfaz Final
 ![Primera Página](img/final1.jpg)
 ![Segunda Página](img/final2.jpg)
 
-# 8. Enlace a "Validación de compra segura"
+## 8. Enlace a "Validación de compra segura"
 https://nicolepozo.github.io/SCL017-card-validation/
 
-# 9. Recursos
+## 9. Recursos
 * Stackoverflow : 
      * https://stackoverflow.com/questions/19249554/advice-on-how-to-code-luhn-credit-card-validation-with-javascript
 * Github
