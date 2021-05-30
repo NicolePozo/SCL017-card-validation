@@ -2,15 +2,15 @@
 
 ## Índice
 
-* [1. Algorítmo de Luhn](#1-algoritmo-de-luhn)
-* [2. Descripción del Producto](#2-resumen-del-proyecto)
-* [3. Proceso de Creación](#3-proceso-de-creacion)
-* [4. Principales Usuarios y Objetivo](#4-principales)
-* [5. ¿Qué esperamos resolver?](#5-que-esperamos)
-* [6. Prototipos](#5-prototipos)
-* [7. Interfaz Final](#6-interfaz-final)
-* [8. Enlace a Validación de compra segura](#7-enlace-a-validacion)
-* [9. Recursos](#8-recursos)
+* [1. Algorítmo de Luhn](#1-algorítmo-de-luhn)
+* [2. Descripción del Producto](#2-descripción-del-proyecto)
+* [3. Proceso de Creación](#3-proceso-de-creación)
+* [4. Principales Usuarios y Objetivo](#4-principales-usuarios-y-objetivos)
+* [5. ¿Qué esperamos resolver?](#5-qué-esperamos-resolver)
+* [6. Prototipos](#6-prototipos)
+* [7. Interfaz Final](#7-interfaz-final)
+* [8. Enlace a Validación de compra segura](#8-enlace-a-validacion-de-compra-segura)
+* [9. Recursos](#9-recursos)
 
 ***
 
