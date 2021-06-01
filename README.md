@@ -32,7 +32,7 @@ Nuestro producto fue desarrollado para otorgar una experiencia de mayor segurida
 Nuestro producto fue desarrollado primeramente desde la mirada UX, pensamos en los posibles usuarios que podrían beneficiarse de nuestro producto. Posterior a eso desarrollamos en conjunto los prototipos de la interfaz en baja fidelidad y buscamos feedback de nuestras compañeras. Por último, iteramos la propuesta de interfaz en base a sus comentarios y sugerencias. Con ello, realizamos el prototipo en la plataforma Figma para finalmente desarollar en VSCode nuestro producto.
 
 ## 4. Principales Usuarios y Objetivo
-Nuestros principales usuarios son dueños o usuarios de tiendas e- commerce para comprar online. El objetivo que tenemos con nuestro producto es que sea una herramienta que les otorgue seguridad al momento de realizar sus ventas online. 
+Nuestros principales usuarios son dueños o usuarios de tiendas e- commerce para comprar online (usuarios directos) y los compradores son nuestros usuarios indirectos. El objetivo que tenemos con nuestro producto es que sea una herramienta que les otorgue seguridad al momento de realizar sus ventas online. 
 
 
 ## 5. ¿Qué esperamos resolver?
